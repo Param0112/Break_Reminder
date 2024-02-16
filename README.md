@@ -6,6 +6,9 @@ My code does-
 2. Graphical User Interface- To build user interface we have used python modules like Customtkinter.
 3. Notifications and Timer- To generate apt notifications at appropriate time,we have used plyer module.
 4. OS integration- We made a BAT file to integrate the exact logic in the OS.
+5. It directly works on startup and does not need extra hassle by the user.
+6. The timing can be changed according to the user.
+7. DND mode is present to stop the code during important meetings or in emergency.
 
 
 
